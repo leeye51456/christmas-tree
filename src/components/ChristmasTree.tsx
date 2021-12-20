@@ -6,8 +6,8 @@ function ChristmasTree() {
       <text
         x="50%"
         y="50%"
-        dominant-baseline="central"
-        text-anchor="middle"
+        dominantBaseline="central"
+        textAnchor="middle"
         style={{
           fontSize: '800px',
           lineHeight: 1,
