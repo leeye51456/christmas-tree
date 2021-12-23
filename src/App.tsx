@@ -3,7 +3,7 @@ import ChristmasTree from './components/ChristmasTree'
 function App() {
   return (
     <div>
-      <ChristmasTree />
+      <ChristmasTree ornamentCount={25} />
     </div>
   )
 }
