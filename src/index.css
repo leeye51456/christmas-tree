@@ -2,6 +2,7 @@ html {
   background:
     radial-gradient(circle closest-side, hsl(50, 25%, 20%), hsl(35, 15%, 5%))
     hsl(35, 15%, 5%);
+  background-repeat: no-repeat;
   height: 100%;
 }
 
